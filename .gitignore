@@ -1,0 +1,6 @@
+preview.html
+.preview/
+.DS_Store
+__pycache__/
+concepts/
+tools/
