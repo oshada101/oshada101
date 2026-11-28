@@ -4,7 +4,7 @@
   <a href="https://oshada.dev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-      <img src="assets/hero-light.svg" width="640" alt="A holographic collectible card, No. 101 of 101. Oshada Bandara, Builder, AI / ML, 4,159 XP. The art is his avatar, a black disc of white ridgelines drawn from 53 weeks of his commits, set in etched foil. Abilities: Elizabeth, WCT, Rescue Rush and heartBeats. Passive: neural_network, a feedforward neural network in pure NumPy.">
+      <img src="assets/hero-light.svg" width="640" alt="A holographic collectible card, No. 101 of 101. Oshada Bandara, Builder, AI / ML, 4,227 XP. The art is his avatar, a black disc of white ridgelines drawn from 53 weeks of his commits, set in etched foil. Abilities: Elizabeth, WCT, Rescue Rush and heartBeats. Passive: neural_network, a feedforward neural network in pure NumPy.">
     </picture>
   </a>
 </p>
@@ -42,7 +42,7 @@
 <summary><sub>READ THE CARD AS TEXT</sub></summary>
 <br>
 
-**Oshada Bandara** · Builder, AI / ML · No. 101/101 · **4,159 XP**, his contributions over the last twelve months
+**Oshada Bandara** · Builder, AI / ML · No. 101/101 · **4,227 XP**, his contributions over the last twelve months
 
 **Abilities**
 
